@@ -9,8 +9,8 @@
 ===============
 | Component     | Address   |
 |---------------|-----------|
-| Partition     | `0x8000`  |
 | BootLoader    | `0x1000`  |
+| Partition     | `0x8000`  |
 | Firmware      | `0x10000` |
 | SPIFFS        | `0x290000` |
 
@@ -20,9 +20,9 @@
 ==============
 Use the following commands:
 
-bw16.bat erase COM5
+bw16.bat erase COM5 (Change COM5 with your COM Port)
 
-bw16.bat flash COM5
+bw16.bat flash COM5 (Change COM5 with your COM Port)
 
 
 Registration Code
