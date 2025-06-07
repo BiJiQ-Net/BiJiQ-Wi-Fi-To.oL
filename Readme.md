@@ -1,5 +1,8 @@
 # Coming Soon...
 
+🙏 **Special thanks to** [tesa-klebeband/RTL8720dn-WiFi-Packet-Injection](https://github.com/tesa-klebeband/RTL8720dn-WiFi-Packet-Injection)  
+This project builds upon their foundational work on enabling Wi-Fi packet injection on the RTL8720DN platform.
+
 🌐 [https://bijiq.net](https://bijiq.net)  
 📺 [Watch the Demo Video](https://youtu.be/CNmAAESZQc0?si=YZMZqPmFLL6IAmBT)
 
