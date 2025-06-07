@@ -1,5 +1,8 @@
 # Coming Soon...
 
+🙏 **Special thanks to** [tesa-klebeband/RTL8720dn-WiFi-Packet-Injection](https://github.com/tesa-klebeband/RTL8720dn-WiFi-Packet-Injection)  
+This project builds upon their foundational work on enabling Wi-Fi packet injection on the RTL8720DN platform.
+
 🌐 [https://bijiq.net](https://bijiq.net)  
 📺 [Watch the Demo Video](https://youtu.be/CNmAAESZQc0?si=YZMZqPmFLL6IAmBT)
 
@@ -9,8 +12,8 @@
 ===============
 | Component     | Address   |
 |---------------|-----------|
-| Partition     | `0x8000`  |
 | BootLoader    | `0x1000`  |
+| Partition     | `0x8000`  |
 | Firmware      | `0x10000` |
 | SPIFFS        | `0x290000` |
 
@@ -20,9 +23,9 @@
 ==============
 Use the following commands:
 
-bw16.bat erase COM5
+bw16.bat erase COM5 (Change COM5 with your COM Port)
 
-bw16.bat flash COM5
+bw16.bat flash COM5 (Change COM5 with your COM Port)
 
 
 Registration Code
